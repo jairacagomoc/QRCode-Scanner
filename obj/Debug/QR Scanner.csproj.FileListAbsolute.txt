@@ -1,0 +1,20 @@
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\QR Scanner.exe.config
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\QR Scanner.exe
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\QR Scanner.pdb
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\AForge.dll
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\AForge.Video.dll
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\zxing.dll
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\zxing.presentation.dll
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\AForge.xml
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\AForge.Video.xml
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\zxing.xml
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\bin\Debug\zxing.presentation.xml
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\obj\Debug\QR Scanner.csproj.AssemblyReference.cache
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\obj\Debug\QR_Scanner.Form1.resources
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\obj\Debug\QR_Scanner.Properties.Resources.resources
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\obj\Debug\QR Scanner.csproj.GenerateResource.cache
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\obj\Debug\QR Scanner.csproj.CoreCompileInputs.cache
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\obj\Debug\QR Scanner.exe
+C:\Users\63907\Documents\5th 1st Sem\Object-Oriented Programming\QR Scanner\obj\Debug\QR Scanner.pdb
